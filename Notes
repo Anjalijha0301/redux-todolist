@@ -1,0 +1,6 @@
+redux configure
+
+create store 
+ ->configureStore 
+ ->slice in reducer key
+
